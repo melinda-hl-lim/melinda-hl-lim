@@ -14,16 +14,16 @@
 
 - 🔭 I’m currently working on: Moments
 - 🌱 I’m currently learning: Go-lang
-- 
+- 📫 How to reach me: LinkedIn or Email
 
-### Languages and Technologies
+### Dev Things
 
-<details>
-<h5>Languages</h5>
-  <img
-    src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+#### Languages and Technologies
+
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crystal%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" />
-</details>
+  <img alt="Golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
 
+#### 
+
+[![Melinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=melinda-hl-lim&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
