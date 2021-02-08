@@ -1,4 +1,6 @@
-## Hello! I'm Melinda Lim 👋
+## 👋 Hello! I'm Melinda
+
+I'm a fullstack developer currently living in Asheville, NC.
 
 <!-- Connect Badges -->
 <p>
@@ -10,10 +12,10 @@
   </a>
 </p>
 
-### About Me
+### ✌️ About Me
 
-- 🔭 I’m currently working on: Moments
 - 🌱 I’m currently learning: Go-lang
+- 📖 I’m currently working on: Moments
 - 📫 How to reach me: LinkedIn or Email
 
 ### Dev Things
