@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Melinda
 
-I'm a fullstack developer currently living in Asheville, NC.
+I'm a fullstack developer currently living in Los Angeles, CA.
 
 <!-- Connect Badges -->
 <p>
