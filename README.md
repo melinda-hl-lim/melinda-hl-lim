@@ -20,7 +20,7 @@ I'm a fullstack developer currently living in Los Angeles, CA.
 
 ### Dev Things
 
-<!-- <details> -->
+<details>
   <summary><b>🖥️ Languages & Technologies</b></summary>
   
   <h5>Languages</h5>
@@ -54,7 +54,7 @@ I'm a fullstack developer currently living in Los Angeles, CA.
   <div align="center">
 
   </div>
-<!-- </details> -->
+</details>
 
 #### Github Stats
 
