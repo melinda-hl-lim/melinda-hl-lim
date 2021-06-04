@@ -7,7 +7,7 @@ I'm a fullstack developer currently living in Los Angeles, CA.
   <a href="https://www.linkedin.com/in/melinda-h-l-lim/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
-  <a href=#>
+  <a href="https://mhlim.com/">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
   </a>
 </p>
@@ -20,15 +20,18 @@ I'm a fullstack developer currently living in Los Angeles, CA.
 
 ### Dev Things
 
-#### Languages and Technologies
+#### Languages | #### Technologies
 
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=for-the-badge&logo=ruby&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
-</p>
+</p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinda-hl-lim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinda-hl-lim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)| 
+
+second column???
+
 
 #### Github Stats
 
