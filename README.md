@@ -20,6 +20,12 @@ I'm a fullstack developer currently living in Los Angeles, CA.
 
 ### Dev Things
 
+#### Github Stats
+
+[![Melinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=melinda-hl-lim&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinda-hl-lim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)| 
+
 <details>
   <summary><b>🖥️ Languages & Technologies</b></summary>
   
@@ -30,7 +36,6 @@ I'm a fullstack developer currently living in Los Angeles, CA.
   <img alt="Golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinda-hl-lim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)| 
   
   <h5>Technologies</h5>
   
@@ -55,7 +60,3 @@ I'm a fullstack developer currently living in Los Angeles, CA.
 
   </div>
 </details>
-
-#### Github Stats
-
-[![Melinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=melinda-hl-lim&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
